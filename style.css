@@ -162,3 +162,11 @@ img  {
     justify-self: center;
     margin: 0;
 }
+.main-five {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    background-color: #1f2937;
+    padding: 16px;
+}
